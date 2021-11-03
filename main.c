@@ -1,3 +1,1 @@
 stdout("Hello");
-
-//test
