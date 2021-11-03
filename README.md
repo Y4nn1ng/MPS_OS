@@ -2,7 +2,7 @@
 
 Betriebssystem des Informatikkurs Q2.if1
 
-# Scrum Roles
+## Scrum Roles
 | Rolle | Rolleninhaber |
 | ------ | ------ |
 | Product Owner | Linus |
