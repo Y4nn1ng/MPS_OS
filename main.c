@@ -1,1 +1,1 @@
-stdout("test1");
+stdout("Main");
