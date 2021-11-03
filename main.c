@@ -1,1 +1,1 @@
-stdout("Hello World");
+stdout("Main");
