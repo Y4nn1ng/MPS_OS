@@ -2,5 +2,10 @@
 https://www.tutorialspoint.com/assembly_programming/assembly_addressing_modes.htm </br>
 https://www.tutorialspoint.com/compile_asm_online.php </br>
 
+
+![image](https://user-images.githubusercontent.com/58338054/140294880-e79493dd-873a-4a08-843c-53b6ca2f56b0.png)
+
+
+
 # C
 https://youtube.com/playlist?list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ </br>
