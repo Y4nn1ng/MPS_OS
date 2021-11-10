@@ -10,6 +10,7 @@ https://lowlevel.eu/wiki/Kategorie:OS-Dev_f%C3%BCr_Einsteiger </br>
 
 # C
 https://youtube.com/playlist?list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ </br>
+https://www.c-howto.de/tutorial/ </br>
 
 # Online C Compiler
 https://www.onlinegdb.com/online_c_compiler </br>
