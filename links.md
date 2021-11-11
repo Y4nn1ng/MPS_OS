@@ -17,5 +17,5 @@ https://www.c-howto.de/tutorial/ </br>
 https://www.onlinegdb.com/online_c_compiler </br>
 
 # C Lernaufgaben
-Bitte bearbeitet soviele Aufgaben wie ihr könnt und ladet eure Ergebnisse in eure .C Date hoch.
+Bitte bearbeitet soviele Aufgaben wie ihr könnt und ladet eure Ergebnisse in eure .C Date hoch. </br>
 https://w3resource.com/c-programming-exercises/ </br>
