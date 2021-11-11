@@ -15,3 +15,6 @@ https://www.c-howto.de/tutorial/ </br>
 
 # Online C Compiler
 https://www.onlinegdb.com/online_c_compiler </br>
+
+# C Lernaufgaben
+https://w3resource.com/c-programming-exercises/ </br>
